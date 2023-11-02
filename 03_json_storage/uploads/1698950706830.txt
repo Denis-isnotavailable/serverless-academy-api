@@ -1,0 +1,1 @@
+{"name":"https://api.privatbank.ua/p24api/pubinfo?exchange","data":[{"ccy":"EUR","base_ccy":"UAH","buy":"38.23110","sale":"40.32258"},{"ccy":"USD","base_ccy":"UAH","buy":"36.24000","sale":"37.45318"}]}
